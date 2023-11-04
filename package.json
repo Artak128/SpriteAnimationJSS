@@ -18,5 +18,13 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "styled-components": "^6.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artak128/SpriteAnimationJSS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Artak128/SpriteAnimationJSS/issues"
+  },
+  "homepage": "https://github.com/Artak128/SpriteAnimationJSS#readme"
 }
