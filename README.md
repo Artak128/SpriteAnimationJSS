@@ -7,12 +7,12 @@ A React component for sprite animations that leverages the power of CSS for smoo
 
 Install this package via npm or yarn:
 
-npm i @m.a.g/spriteanimation
+npm i sprite-animation-jss
 
 ## Usage
 ```JSX
 import React from 'react';
-import SpriteAnimation from '@m.a.g/spriteanimation';
+import SpriteAnimation from 'sprite-animation-jss';
 
 function App() {
   return (
