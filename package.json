@@ -1,0 +1,22 @@
+{
+  "name": "SpriteAnimationJSS",
+  "version": "1.0.0",
+  "description": "Sprite Animation With CSS",
+  "main": "SpriteAnimation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sprite",
+    "spriteanimation",
+    "cssanimation"
+  ],
+  "author": "Artak Manukian",
+  "license": "ISC",
+  "peerDependencies": {
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "styled-components": "^6.1.0"
+  }
+}
